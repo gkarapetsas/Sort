@@ -1,3 +1,12 @@
+!>-----------------------------------------------------------------------------------------------------------
+!>
+!> Authors: Dionisis Pettas   (dspedi@gmail.com)                 Date: 24/05/2020
+!>          George Karapetsas (gkarapetsas@gmail.com)
+!>
+!>-----------------------------------------------------------------------------------------------------------
+!>
+!> This is a collection of subroutines with sorting algorithms for arrays
+
   Module Sort_subroutines
 
    Private
