@@ -205,7 +205,7 @@
 
   A(J)    = A( Size(A) )
    
-  A(J+1:) = Huge(0)
+  A(J+1:) = Huge(0.D0)
 
   N = J ! N gives the number of unique entries
 
